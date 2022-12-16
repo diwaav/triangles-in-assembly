@@ -1,6 +1,6 @@
-## ASCII-risks (Asterisks) [CSE 12]
+# ASCII-risks (Asterisks) [CSE 12]
 
-# DESCRIPTION
+## DESCRIPTION
 In this lab, the user inputs an integer (whole) number that is larger than 0, 
 and the program will output a triangle of that height, with numbers on the outside 
 and aestericks on the inside.    
@@ -19,7 +19,7 @@ textbook, and the tutorial by Hilal were extremely helpful in understanding the 
 Also, running the program step by step (using the playbutton with a number next to it) helped
 with checking the register values (displayed to the right) throughout the program.
     
-# FILES    
+## FILES    
 Lab3 - This file must be opened using MARS. It contains the instructions for a     
        program that builds a triangle of a specific height, given by user input.    
        The first part of the file is just my name, and information about the assignment/class.    
@@ -29,7 +29,7 @@ Lab3 - This file must be opened using MARS. It contains the instructions for a
        the .text section that is seperated by labels and goes through instructing the program on     
        what to store/load where, and what to print in which order, etc.    
     
-# INSTRUCTIONS    
+## INSTRUCTIONS    
 To start, open the lab from MARS > open file > navigate to lab    
 Click run > assemble > play button to run the program.    
 Put in a number that is greater than zero for the height of your triangle.    

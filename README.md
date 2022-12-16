@@ -38,9 +38,11 @@ If your number is greater than 0, the program will print a triangle.
 The triangle will have a height as big as the uner input,     
 and the last number at the end of the triangle will be (num * 2) - 1 where num is the user input.    
 For example: If your input is 5, your triangle is     
--				1    
--			2	*	3    
--		4	*	*	*	5    
--	6	*	*	*	*	*	7    
--8	*	*	*	*	*	*	*	9    
+```
+				1    
+			2	*	3    
+		4	*	*	*	5    
+	6	*	*	*	*	*	7    
+8	*	*	*	*	*	*	*	9    
+```
 Where your triangle's height is 5, and (5*2)-1 = (10)-1 = 9 as the last number.    
